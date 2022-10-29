@@ -15,8 +15,11 @@ function Feed() {
         </section>
         
         <section>
+          <div className="fixed top-20">
             <MiniProfile />
             <Suggestions />
+          </div>
+            
         </section>
        
 
